@@ -8,9 +8,16 @@ ol.classBlack {
   color: black;
 }
 .classBlack {
+  border-radius: 90px 90px 90px 90px;
+  -moz-border-radius: 90px 90px 90px 90px;
+  -webkit-border-radius: 90px 90px 90px 90px;
+  border: 13px double #8a298a;
+
   color: gray;
+  background-color: rgb(209, 129, 129);
 }
 
 ol.classBlack li#hola {
   color: rgb(0, 13, 128);
+  background-color: greenyellow;
 }
